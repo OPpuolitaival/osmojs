@@ -1,0 +1,27 @@
+{
+  "name": "osmo-tester",
+  "keywords": [
+    "model-based testing", "testing", "test automation"
+  ],
+  "description": "Osmo tester",
+  "version": "0.0.1",
+  "author": {
+    "name": "Olli-Pekka Puolitaival",
+    "email": "olli-pekka@puolitaival.fi"
+  },
+  "contributors": [
+    {
+      "name": "Olli-Pekka Puolitaival",
+      "email": "olli-pekka@puolitaival.fi"
+    }
+  ],
+  "directories": {
+    "lib": "./lib",
+    "example": "./examples"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:OPpuolitaival/osmojs.git"
+  },
+  "homepage": "https://code.google.com/p/osmo/"
+}
